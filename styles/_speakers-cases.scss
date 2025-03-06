@@ -1,0 +1,74 @@
+.speakers,
+.cases {
+  // width: 100%;
+  .container {
+    .slides {
+      display: flex;
+      gap: 80px;
+      background: $backgroundColor;
+      width: 1064px;
+      padding: 46px 29px;
+      border-radius: 40px;
+      color: $color;
+      .headline-1 {
+        color: $colorText;
+      }
+      .side {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+
+        .tech-directions {
+          // width: 582px;
+          // width: 40%;
+          height: 227px;
+          border-radius: 16px;
+          padding: 26px 15px;
+          border-width: 1.5px;
+          background-color: $bgDirections;
+          border: 1px solid black;
+          box-shadow: -7px 7px $color, 7px 7px $color, 0px 7px $color;
+          margin-left: -500px 0px 0px -500px;
+        }
+        .but-tech-directions {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          align-items: center;
+          // width: 594px;
+          top: 358px;
+          left: 456px;
+          gap: 12px;
+          margin: 10px;
+
+          button {
+            gap: 10px;
+            border-radius: 28px;
+            border-width: 1px;
+
+            cursor: pointer;
+            background-color: $backgroundColor;
+          }
+          button.active {
+            background-color: $color;
+            color: $primaryColor;
+          }
+
+          .slide.active {
+            display: block;
+          }
+        }
+        .slide-num {
+          display: flex;
+          div {
+            font-size: 20px;
+            font-weight: 700;
+            margin: 0px 10px;
+            cursor: pointer;
+          }
+        }
+      }
+    }
+  }
+}

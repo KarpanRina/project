@@ -1,0 +1,36 @@
+.info {
+//   width: 100%;
+//   height: 463px;
+  .container {
+    .block-info {
+      background: $color;
+      width: 1064px;
+      height: 463px;
+      padding: 46px 29px;
+      border-radius: 40px;
+      display: flex;
+    //   grid-template-columns: 1fr 1fr 1fr 1fr;
+    //   grid-template-rows: 50% 50%;
+      gap: 40px;
+
+      div {
+        border: 1px solid;
+        border-radius: 40px;
+        padding: 16px 24px;
+        align-items: center;
+      }
+      .video {
+        background: $colorVideo;
+        width: 55%;
+      }
+      .info-platform {
+        background: $primaryColor;
+        width: 45%;
+        color: $color;
+        p {
+            color: $colorText;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+
+[
+  {
+    "image": "./images/speakers/freepik__comic-art-graphic-novel-art-comic-illustration-hig__99202.png",
+    "texts": [
+      {
+        "title": "Web Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/speakers/business-woman-posing-street.png",
+    "texts": [
+      {
+        "title": "Web Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/speakers/beautifull-caucasian-woman-with-curly-hair-smiles-isolated.png",
+    "texts": [
+      {
+        "title": "3Web Development",
+        "description": "3Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  }
+]

@@ -1,0 +1,351 @@
+
+[
+  {
+    "image": "./images/cases/Frame 939 (1).png",
+    "texts": [
+      {
+        "title": "1Web Development",
+        "description": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/cases/Frame 939.png",
+    "texts": [
+      {
+        "title": "2Web Development",
+        "description": "2Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/cases/hardworking-focused-woman-trendy-glasses-concentrating-writing-essay-sitting-cozy-cafe-near-laptop-working-making-notes-carefully.png",
+    "texts": [
+      {
+        "title": "Web Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/cases/image (1).png",
+    "texts": [
+      {
+        "title": "1Web Development",
+        "description": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/cases/image 3.png",
+    "texts": [
+      {
+        "title": "1Web Development",
+        "description": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/cases/image 4.png",
+    "texts": [
+      {
+        "title": "1Web Development",
+        "description": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/cases/image 5.png",
+    "texts": [
+      {
+        "title": "1Web Development",
+        "description": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/cases/image 6.png",
+    "texts": [
+      {
+        "title": "1Web Development",
+        "description": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/cases/image 7.png",
+    "texts": [
+      {
+        "title": "1Web Development",
+        "description": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/cases/image 8.png",
+    "texts": [
+      {
+        "title": "1Web Development",
+        "description": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/cases/image.png",
+    "texts": [
+      {
+        "title": "1Web Development",
+        "description": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  },
+  {
+    "image": "./images/cases/woman-working-laptop-table.png",
+    "texts": [
+      {
+        "title": "1Web Development",
+        "description": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SaaS Products",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Apps Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "SEO Services",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      },
+      {
+        "title": "Data Analysis",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore occaecati."
+      }
+    ]
+  }
+]

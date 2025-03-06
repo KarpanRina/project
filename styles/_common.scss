@@ -1,0 +1,108 @@
+$bgPrimary: url("../images/bgPrimary.png");
+$bgHeader: url("../images/background.png");
+$primaryColor: #ffffff;
+$color: #000000;
+$mainText: #b2b2b2;
+$backgroundColor: #E2E6EE;
+$colorText: #585454;
+$colorText2: #C8C8C8;
+$bgDirections: #F9FAFC;
+$colorVideo: #383838;
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: $bgPrimary;
+  color: $primaryColor;
+  section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    // height: 100vh;
+    // width: 1064px;
+    margin-top: 200px;
+    .title {
+      color: $color;
+    }
+  }
+}
+
+@mixin heading($size, $font-family) {
+  font-family: $font-family;
+  font-size: $size;
+  line-height: 120%;
+  letter-spacing: 0%;
+}
+
+@mixin text($size, $font-family, $line-height: 150%) {
+  font-family: $font-family;
+  font-size: $size;
+  line-height: $line-height;
+  letter-spacing: 0%;
+}
+
+h1 {
+  @include heading(48px, "JostSemiBold");
+}
+h2 {
+  @include heading(40px, "JostBold");
+}
+h3 {
+  @include heading(32px, "JostExtraBold");
+}
+h4 {
+  @include heading(28px, "JostBold");
+}
+h5 {
+  @include heading(22px, "JostMedium");
+}
+
+button {
+  @include heading(22px, "JostMediumButton");
+}
+
+@media (max-width: 768px) {
+  h1 {
+    @include heading(24px, "JostSemiBold");
+  }
+  h2 {
+    @include heading(20px, "JostBold");
+  }
+  h3 {
+    @include heading(16px, "JostExtraBold");
+  }
+  h4 {
+    @include heading(14px, "JostExtraBold");
+  }
+
+  button {
+    @include heading(18px, "JostSemiBold");
+  }
+}
+
+nav ul li a {
+  @include heading(20px, "JostSemiBold");
+}
+
+.headline-1 {
+  @include text(18px, "JostRegular");
+}
+.headline-2 {
+  @include text(16px, "JostRegular", 120%);
+}
+.headline-3 {
+  @include text(14px, "JostSemiBold");
+}
+
+@media (max-width: 768px) {
+  .headline-1 {
+    @include text(14px, "JostRegular");
+  }
+  .headline-2 {
+    @include text(12px, "JostSemiBold", 120%);
+  }
+  .headline-3 {
+    @include text(10px, "JostRegular", 120%);
+  }
+}

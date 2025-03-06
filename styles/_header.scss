@@ -1,0 +1,77 @@
+.header {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  border-bottom-left-radius: 72px;
+  border-bottom-right-radius: 72px;
+  overflow: hidden;
+  background: url(../images/it.png) no-repeat 90% center / 40%,
+    url(../images/light.png) no-repeat 70% center / 35%,
+    $bgHeader no-repeat center center / cover;
+
+  .overlay {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 10%;
+
+    nav {
+      width: 100%;
+      position: absolute;
+      top: 20px;
+      left: 0;
+      display: flex;
+      justify-content: center;
+
+      ul {
+        list-style: none;
+        display: flex;
+        padding-top: 5px;
+        margin: 0;
+
+        li {
+          a {
+            color: $primaryColor;
+            text-decoration: none;
+            padding: 5px 30px;
+
+            &.active {
+              background-color: $primaryColor;
+              border-radius: 50px;
+              color: $color;
+              font-weight: 600;
+            }
+          }
+        }
+      }
+    }
+    .content {
+      max-width: 511px;
+      max-height: 394px;
+      width: 100%;
+      text-align: left;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: center;
+
+      h1 {
+        color: $primaryColor;
+        margin-bottom: 20px;
+      }
+
+      p {
+        color: $mainText;
+        margin-bottom: 80px;
+      }
+
+      button {
+        padding: 16px 32px;
+        border: none;
+        cursor: pointer;
+        border-radius: 50px;
+      }
+    }
+  }
+}

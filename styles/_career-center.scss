@@ -1,0 +1,45 @@
+.career-center, .expert-community {
+//   width: 100%;
+  .container {
+    .center, .community {
+      background: $color;
+      width: 1093px;
+      height: 437px;
+      padding-left: 29px;
+      border-radius: 40px;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      .it-men {
+        width: 55%;
+        margin: 0 auto;
+        // height: 10%;
+        // padding-right: -29px;
+      }
+      .headline-2 {
+        color: $colorText2;
+      }
+      .divFrame {
+        display: flex;
+        gap: 5px;
+        .headline-3 {
+          width: 212;
+          height: 33;
+          gap: 12px;
+          padding-top: 8px;
+          padding-right: 16px;
+          padding-bottom: 8px;
+          padding-left: 16px;
+          border-radius: 20px;
+          border-width: 1px;
+
+          border: 1px solid $backgroundColor;
+        }
+      }
+      img {
+        border-radius: 40px;
+        margin: 0 auto;
+      }
+    }
+  }
+}
